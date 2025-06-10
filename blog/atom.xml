@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lfi.github.io/LFI/blog</id>
     <title>LA FENICE ITALIANA Blog</title>
-    <updated>2025-06-03T18:20:41.000Z</updated>
+    <updated>2025-06-10T19:21:38.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lfi.github.io/LFI/blog"/>
     <subtitle>LA FENICE ITALIANA Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[BLOG LFI]]></title>
         <id>https://lfi.github.io/LFI/blog/index</id>
         <link href="https://lfi.github.io/LFI/blog/index"/>
-        <updated>2025-06-03T18:20:41.000Z</updated>
+        <updated>2025-06-10T19:21:38.000Z</updated>
         <summary type="html"><![CDATA[La fenice Italiana (ex ITC), meglio conosciuta come "LFI" è formata da un gruppo di amici appassionati del modo videoludico e simulativo, nello specifico, siamo grandi appassionati dei simulatori di guida (ETS2 & ATS) ma ciò non toglie che siamo aperti anche ad altri giochi e di genere diverso.]]></summary>
         <content type="html"><![CDATA[<h1>CHI SIAMO ?</h1>
 <p>La fenice Italiana (ex ITC), meglio conosciuta come "LFI" è formata da un gruppo di amici appassionati del modo videoludico e simulativo, nello specifico, siamo grandi appassionati dei simulatori di guida (ETS2 &amp; ATS) ma ciò non toglie che siamo aperti anche ad altri giochi e di genere diverso.</p>
@@ -107,51 +107,10 @@ Sarà compito dello staff valutare eventuali modifiche del regolamento.</p>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FOTO GALLERY LFI]]></title>
-        <id>https://lfi.github.io/LFI/blog/GALLERIA LFI</id>
-        <link href="https://lfi.github.io/LFI/blog/GALLERIA LFI"/>
-        <updated>2025-06-03T18:20:41.000Z</updated>
-        <summary type="html"><![CDATA[IMG1]]></summary>
-        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="IMG1" src="https://lfi.github.io/LFI/assets/images/20231221230343_1-1bff2511e7dffb8d11cdbeaf852e616b.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG2" src="https://lfi.github.io/LFI/assets/images/20231221230351_1-0ad4bc2b1421897099066bff5b8959bd.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG3" src="https://lfi.github.io/LFI/assets/images/ets2_20240203_223717_000-c9a829c850d8cb91ece4df3f69f50b34.png" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG4" src="https://lfi.github.io/LFI/assets/images/ets2_20240203_223717_00-394ddff0610c0d999296e8378a622cba.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG5" src="https://lfi.github.io/LFI/assets/images/20240704220902_1-7eab40a4a0fd3d55ef76499cd48e419e.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG6" src="https://lfi.github.io/LFI/assets/images/20240822220342_1-ef517da8e9ce6058320f1c6b4fa417dc.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG7" src="https://lfi.github.io/LFI/assets/images/20240822221309_1-a69ed105052a7b5f3c0d1a64e4e764b9.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG8" src="https://lfi.github.io/LFI/assets/images/20240827223846_1-7410d2f17da0afda887cd22187e7fa0e.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG9" src="https://lfi.github.io/LFI/assets/images/ets2_20240909_215920_00-c236789ece737400e58748a26ff90204.png" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG10" src="https://lfi.github.io/LFI/assets/images/ets2_20240909_225533_00-8c1279483e4f330c66358b6ea3087e4c.png" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG11" src="https://lfi.github.io/LFI/assets/images/20241005220312_1-083952f3ede03f0f74939f51ca3bc78f.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG12" src="https://lfi.github.io/LFI/assets/images/20241005235700_1-3d2f4d760ba6afa255750cb0f1d733b1.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG14" src="https://lfi.github.io/LFI/assets/images/20241109230801_1-a23d1e1ae32fa82325bf918917974b6e.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG15" src="https://lfi.github.io/LFI/assets/images/ets2_20241103_004243_00-1dc9749cfd5d824c7e9d1303c54c4fc2.png" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG16" src="https://lfi.github.io/LFI/assets/images/ets2_20241103_004400_00-386954c1c908e4f00547f24fc9f811b5.png" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG17" src="https://lfi.github.io/LFI/assets/images/ets2_20241103_004359_00-b6bc3d6bb888ef4379c9fd1c547558ea.png" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG18" src="https://lfi.github.io/LFI/assets/images/ets2_20241103_004359_01-ad6dac05069506f3f4abffca0229ff6e.png" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG19" src="https://lfi.github.io/LFI/assets/images/20241221233024_1-82c94f0e79de00515987146de65457f1.jpg" width="1920" height="1080" class="img_ev3q">
-<img decoding="async" loading="lazy" alt="IMG20" src="https://lfi.github.io/LFI/assets/images/20241223000149_1-24abd63385881660b3515b503e862a6b.jpg" width="1920" height="1080" class="img_ev3q"></p>
-<p><img decoding="async" loading="lazy" alt="IMG21" src="https://lfi.github.io/LFI/assets/images/ats_20240804_105237_00-6404367f180aba894b489a429b1b55de.png" width="1920" height="1080" class="img_ev3q"></p>]]></content>
-        <author>
-            <name>Bitpredator</name>
-            <uri>https://github.com/bitpredator</uri>
-        </author>
-        <category label="LFI" term="LFI"/>
-        <category label="ITA" term="ITA"/>
-        <category label="ETS2" term="ETS2"/>
-        <category label="ATS" term="ATS"/>
-        <category label="LIVE" term="LIVE"/>
-        <category label="CONVOGLIO" term="CONVOGLIO"/>
-        <category label="CONVOY" term="CONVOY"/>
-        <category label="FOTO" term="FOTO"/>
-        <category label="FOTOGRAFIA" term="FOTOGRAFIA"/>
-        <category label="CAMION" term="CAMION"/>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[CONVOGLI/CONVOGLI]]></title>
         <id>https://lfi.github.io/LFI/blog/CONVOGLI/CONVOGLI</id>
         <link href="https://lfi.github.io/LFI/blog/CONVOGLI/CONVOGLI"/>
-        <updated>2025-06-03T18:20:41.000Z</updated>
+        <updated>2025-06-10T19:21:38.000Z</updated>
         <summary type="html"><![CDATA[Ciao, speriamo che questo viaggio organizzato dalla Italian Truck Company sia l'inizio di un buon Natale, dopo gli eventi passati abbiamo deciso di creare un nuovo evento natalizio e come sempre allargarlo a tutte le aziende virtuali (VTC).]]></summary>
         <content type="html"><![CDATA[<p>Ciao, speriamo che questo viaggio organizzato dalla Italian Truck Company sia l'inizio di un buon Natale, dopo gli eventi passati abbiamo deciso di creare un nuovo evento natalizio e come sempre allargarlo a tutte le aziende virtuali (VTC).</p>
 <p>Come punto di partenza abbiamo scelto la sede Scania, la quale si trova presso la Città di: Södertälje.
@@ -199,10 +158,51 @@ Sarà compito dello staff valutare eventuali modifiche del regolamento.</p>
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[FOTO GALLERY LFI]]></title>
+        <id>https://lfi.github.io/LFI/blog/GALLERIA LFI</id>
+        <link href="https://lfi.github.io/LFI/blog/GALLERIA LFI"/>
+        <updated>2025-06-10T19:21:38.000Z</updated>
+        <summary type="html"><![CDATA[IMG1]]></summary>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" alt="IMG1" src="https://lfi.github.io/LFI/assets/images/20231221230343_1-1bff2511e7dffb8d11cdbeaf852e616b.jpg" width="1920" height="1080" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="IMG2" src="https://lfi.github.io/LFI/assets/images/20231221230351_1-0ad4bc2b1421897099066bff5b8959bd.jpg" width="1920" height="1080" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="IMG3" src="https://lfi.github.io/LFI/assets/images/ets2_20240203_223717_000-c9a829c850d8cb91ece4df3f69f50b34.png" width="1920" height="1080" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="IMG4" src="https://lfi.github.io/LFI/assets/images/ets2_20240203_223717_00-394ddff0610c0d999296e8378a622cba.jpg" width="1920" height="1080" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="IMG5" src="https://lfi.github.io/LFI/assets/images/20240704220902_1-7eab40a4a0fd3d55ef76499cd48e419e.jpg" width="1920" height="1080" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="IMG6" src="https://lfi.github.io/LFI/assets/images/20240822220342_1-ef517da8e9ce6058320f1c6b4fa417dc.jpg" width="1920" height="1080" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="IMG7" src="https://lfi.github.io/LFI/assets/images/20240822221309_1-a69ed105052a7b5f3c0d1a64e4e764b9.jpg" width="1920" height="1080" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="IMG8" src="https://lfi.github.io/LFI/assets/images/20240827223846_1-7410d2f17da0afda887cd22187e7fa0e.jpg" width="1920" height="1080" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="IMG9" src="https://lfi.github.io/LFI/assets/images/ets2_20240909_215920_00-c236789ece737400e58748a26ff90204.png" width="1920" height="1080" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="IMG10" src="https://lfi.github.io/LFI/assets/images/ets2_20240909_225533_00-8c1279483e4f330c66358b6ea3087e4c.png" width="1920" height="1080" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="IMG11" src="https://lfi.github.io/LFI/assets/images/20241005220312_1-083952f3ede03f0f74939f51ca3bc78f.jpg" width="1920" height="1080" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="IMG12" src="https://lfi.github.io/LFI/assets/images/20241005235700_1-3d2f4d760ba6afa255750cb0f1d733b1.jpg" width="1920" height="1080" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="IMG14" src="https://lfi.github.io/LFI/assets/images/20241109230801_1-a23d1e1ae32fa82325bf918917974b6e.jpg" width="1920" height="1080" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="IMG15" src="https://lfi.github.io/LFI/assets/images/ets2_20241103_004243_00-1dc9749cfd5d824c7e9d1303c54c4fc2.png" width="1920" height="1080" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="IMG16" src="https://lfi.github.io/LFI/assets/images/ets2_20241103_004400_00-386954c1c908e4f00547f24fc9f811b5.png" width="1920" height="1080" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="IMG17" src="https://lfi.github.io/LFI/assets/images/ets2_20241103_004359_00-b6bc3d6bb888ef4379c9fd1c547558ea.png" width="1920" height="1080" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="IMG18" src="https://lfi.github.io/LFI/assets/images/ets2_20241103_004359_01-ad6dac05069506f3f4abffca0229ff6e.png" width="1920" height="1080" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="IMG19" src="https://lfi.github.io/LFI/assets/images/20241221233024_1-82c94f0e79de00515987146de65457f1.jpg" width="1920" height="1080" class="img_ev3q">
+<img decoding="async" loading="lazy" alt="IMG20" src="https://lfi.github.io/LFI/assets/images/20241223000149_1-24abd63385881660b3515b503e862a6b.jpg" width="1920" height="1080" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="IMG21" src="https://lfi.github.io/LFI/assets/images/ats_20240804_105237_00-6404367f180aba894b489a429b1b55de.png" width="1920" height="1080" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>Bitpredator</name>
+            <uri>https://github.com/bitpredator</uri>
+        </author>
+        <category label="LFI" term="LFI"/>
+        <category label="ITA" term="ITA"/>
+        <category label="ETS2" term="ETS2"/>
+        <category label="ATS" term="ATS"/>
+        <category label="LIVE" term="LIVE"/>
+        <category label="CONVOGLIO" term="CONVOGLIO"/>
+        <category label="CONVOY" term="CONVOY"/>
+        <category label="FOTO" term="FOTO"/>
+        <category label="FOTOGRAFIA" term="FOTOGRAFIA"/>
+        <category label="CAMION" term="CAMION"/>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[STREAMER UFFICIALI LFI]]></title>
         <id>https://lfi.github.io/LFI/blog/STREAMER/Streamer</id>
         <link href="https://lfi.github.io/LFI/blog/STREAMER/Streamer"/>
-        <updated>2025-06-03T18:20:41.000Z</updated>
+        <updated>2025-06-10T19:21:38.000Z</updated>
         <summary type="html"><![CDATA[Ciao a tutti, sono Bitpredator uno Streamer per pura passione questo è solo un hobby non è il mio lavoro.]]></summary>
         <content type="html"><![CDATA[<h1>Bitpredator</h1>
 <p>Ciao a tutti, sono Bitpredator uno Streamer per pura passione questo è solo un hobby non è il mio lavoro.
